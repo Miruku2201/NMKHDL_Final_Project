@@ -1,0 +1,29 @@
+﻿Name Columns,Type,Describe
+Brand,String,Tên hãng máy
+Series,String,Series của máy
+Name,String,Tên máy
+CPU,String,Chip on-board của máy
+CPU Ranking,Int,Xếp hạng CPU hiện nay
+GPU,String,Card đồ họa của máy
+GPU Ranking,Int,Xếp hạng GPU hiện nay
+Display,String,Màn hình máy
+M.2 Slot ,String,Các ổ M2
+SSD/HDD,String,SSD/HDD của máy
+Ram,String,Ram của máy
+Weight,String,Cân nặng của máy
+OS,String,Hệ điều hành 
+Body Material,String,Nguyên liệu thân máy
+Dimension,String,Độ cao rộng dài của máy
+USB Type,Dictionary,Cổng kết nối
+HDMI,String,Phiên bản kết nối của cổng HDMI
+Card Reader,String,Card Reader của máy
+Ethernet LAN,String,Cổng Lan
+Wifi,String,Phiên bản của wifi
+Audio jack,String,Cổng cắm tai nghe
+Fingerprint reader,String,Đọc vân tay
+Web camera ,String,Độ phân giải camera 
+Backlit keyboard,String,Đèn bàn phím
+Microphone,String,Âm thanh đầu vào của máy
+Speaker,String,Loa của máy
+Optical drive,String,Ổ đĩa tự chọn
+Security Lock slot,String,Nút khóa an toàn

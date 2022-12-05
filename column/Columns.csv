@@ -1,0 +1,25 @@
+﻿Name,Type,Describe
+id,string,ID của quyền sách
+sku,string,Mã hàng hóa
+name,string,Tên quyển sách
+short_url,string,Đường link đến trang bán sách
+book_cover,string,Loại bìa sách
+price,int ,Giá quyển sách đang được bán trên tiki
+original_price,int,Giá gốc của quyển sách
+discount_rate,int ,% Giảm giá 
+rating_average,int,Mức đánh giát trung bình ( 0 <= x <= 5)
+review_count,int,"Số lượt đánh giá, bình luận của khách hàng"
+inventory_type,string,"Tình trạng trong kho của quyển sách. (""instock"": còn trong kho nhưng với số lượng khá ít, ""backorder"": được đặt hàng, ""preorder"": sách đặt trước.)"
+productset_group_name,string,Tên nhóm sản phẩm
+day_ago_created,int,Số ngày kể từ khi đăng bán trên tiki
+categories,string,Phân loại sách
+all_time_quantity_sold,int,Số lượng sách đã bán từ tiki 
+authors,string,Tác giả quyển sách
+publisher_vn,string,Công ty phát hành
+publication_date,Date,Ngày xuất bản 
+dimensions,string,Kích thước chiều dài và rộng của quyển sách
+manufacturer,string,Nhà xuất bản
+number_of_page,int,Số trang
+dich_gia,string,Tên dịch giả
+edition,string,Phiên bản của quyển sách
+luu_y ,string,Những lưu ý thay đổi trên sách

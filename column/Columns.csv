@@ -7,7 +7,7 @@ book_cover,string,Loại bìa sách
 price,int ,Giá quyển sách đang được bán trên tiki
 original_price,int,Giá gốc của quyển sách
 discount_rate,int ,% Giảm giá 
-rating_average,int,Mức đánh giát trung bình ( 0 <= x <= 5)
+rating_average,float,Mức đánh giát trung bình ( 0 <= x <= 5)
 review_count,int,"Số lượt đánh giá, bình luận của khách hàng"
 inventory_type,string,"Tình trạng trong kho của quyển sách. (""instock"": còn trong kho nhưng với số lượng khá ít, ""backorder"": được đặt hàng, ""preorder"": sách đặt trước.)"
 productset_group_name,string,Tên nhóm sản phẩm

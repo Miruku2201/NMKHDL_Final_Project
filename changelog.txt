@@ -1,2 +1,18 @@
-15-12-2022 8:44
-add fine-tuning process to models.ipynb
+Phần Preprocessing:
+Thêm:	
+	Phần so sánh id và master_id (Nội dung markdown, cell code) (Sự liên quan giữa id và master_id)
+	Tìm kiếm các cột numeric.
+	Thống kê mô tả các cột numeric và các cột không thuộc numeric.
+	Check có bao nhiêu giá trị NaT trong biến publication_date
+	Các markdown và cell code cho phần xử lí cột dimensions
+
+Question:
+Thêm:
+	Câu 5 (do lúc nộp bài lần đầu, thiếu xót nên để lạc mất câu 5)
+	Câu 6
+Sửa
+	Nội dung nhận xét cuối cùng của câu 4
+
+Modeling:
+Thêm:
+	Hoàn thành finetunsing
